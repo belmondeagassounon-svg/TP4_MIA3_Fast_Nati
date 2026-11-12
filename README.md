@@ -1,5 +1,4 @@
-Voici le contenu complet du fichier README.md, structuré et prêt à être copié-collé dans votre projet. Il intègre l'analyse, les trois diagrammes UML au format Mermaid (compatibles GitHub et GitLab), ainsi que le code C++.
-markdown
+
 # 🏫 Système de Réservation de Salles Universitaires (UML & C++)
 
 Projet complet d'analyse, de modélisation UML et d'implémentation en C++ pour la gestion des salles d'un département universitaire (cours, travaux dirigés et soutenances).
@@ -371,8 +370,3 @@ Reservation #3 | Salle: A101 | Par: Prof. Kouassi | Le: 2026-11-15 (08h00-10h00)
 ```
 
 <FollowUp>
-Souhaitez-vous que je :
-* Génère directement les fichiers **`README.md`** et **`main.cpp`** téléchargeables pour votre projet ?
-* Sépare le code C++ en **fichiers d'en-tête (`.hpp`) et sources (`.cpp`)** pour une architecture multi-fichiers plus professionnelle ?
-</FollowUp>
-(url)](url)](url)# TP4_MIA3_Fast_Nati
